@@ -11,5 +11,5 @@ Creating a Pokemon style game
 
 [initial]: https://github.com/PokemonGame/wiki
 [workflow]: https://github.com/PokemonGame/Development-Workflow
-[githelp]: https://github.com/PokemonGame/Helpful-Git-Commands
+[githelp]: https://github.com/daferrib/PokemonGame/wiki/Helpful-Git-Commands
 [mergoconflicto]: https://github.com/PokemonGame/wiki/Merge-Conflicts
