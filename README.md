@@ -1,12 +1,15 @@
 # PokemonGame
 Creating a Pokemon style game
 
-Initial Setup
+[Initial Setup][initial]
 
-Development Workflow
+[Development Workflow][workflow]
 
-Useful Git Commands
+[Useful Git Commands][githelp]
 
-Fixing Merge Conflicts
+[Fixing Merge Conflicts][mergoconflicto]
 
-TASK LIST
+[initial]: https://github.com/PokemonGame/wiki
+[workflow]: https://github.com/PokemonGame/Development-Workflow
+[githelp]: https://github.com/PokemonGame/Helpful-Git-Commands
+[mergoconflicto]: https://github.com/PokemonGame/wiki/Merge-Conflicts
